@@ -26,20 +26,41 @@ A powerful subdomain scanner that works on both Termux and Kali Linux. Find subd
 ### On Termux:
 ```bash
 pkg update && pkg upgrade
+```
+```bash 
 pkg install python git
+```
+```bash
 git clone https://github.com/NRX-Cyber-Learner/nrx-subscanner
+```
+```bash 
 cd nrx-subscanner
+```
+```bash 
 chmod +x install.sh
+```
+```bash 
 ./install.sh
-
-
+```
+###kali installation
+```bash 
 sudo apt update
+```
+```bash 
 sudo apt install python3 python3-pip git
+```
+```bash 
 git clone https://github.com/NRX-Cyber-Learner/nrx-subscanner
+```
+```bash 
 cd nrx-subscanner
+```
+```bash 
 chmod +x install.sh
+```
+```bash 
 sudo ./install.sh
-
+```
 
 
 
