@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-brightgreen">
   <img src="https://img.shields.io/badge/Python-3.x-blue">
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Kali%20Linux-red">
+  <img src="https://img.shields.io/badge/Platform-Termux%20%">
 </p>
 
 <p align="center">
