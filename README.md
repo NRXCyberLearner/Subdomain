@@ -42,7 +42,7 @@ chmod +x install.sh
 ```bash 
 ./install.sh
 ```
-###kali installation
+### kali installation:
 ```bash 
 sudo apt update
 ```
