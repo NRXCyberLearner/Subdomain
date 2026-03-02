@@ -31,10 +31,10 @@ pkg update && pkg upgrade
 pkg install python git
 ```
 ```bash
-git clone https://github.com/NRX-Cyber-Learner/nrx-subscanner
+https://github.com/NRXCyberLearner/Subdomain.git
 ```
 ```bash 
-cd nrx-subscanner
+cd Subdomain
 ```
 ```bash 
 chmod +x install.sh
@@ -50,10 +50,10 @@ sudo apt update
 sudo apt install python3 python3-pip git
 ```
 ```bash 
-git clone https://github.com/NRX-Cyber-Learner/nrx-subscanner
+https://github.com/NRXCyberLearner/Subdomain.git
 ```
 ```bash 
-cd nrx-subscanner
+cd Subdomain
 ```
 ```bash 
 chmod +x install.sh
