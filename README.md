@@ -36,12 +36,13 @@ git clone https://github.com/NRXCyberLearner/Subdomain.git
 ```bash 
 cd Subdomain
 ```
-```bash 
-apt install python git -y
+```bash
+chmod +x install.sh
 ```
-```bash 
-python nrx_scanner.py -d example. com
+``` bash
+./install.sh
 ```
+
 
 ## 🎯 **Usage Commands**
 
